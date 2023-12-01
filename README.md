@@ -18,6 +18,8 @@ To begin, you'll need to obtain a `signature`. Follow these steps to acquire it:
 
 _Note: The signature is in all queries, but you'll only need it with `TASK_INPUT`._
 
+![Image](https://raw.githubusercontent.com/luoshenshi/Botpress-Integration-alt/main/help.png)
+
 ## THE CODE
 
 ```javascript
